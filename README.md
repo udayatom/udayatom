@@ -25,17 +25,17 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently making trending in  **AI, GenAI, Data science projects, Python & Mobile App Dev in Android & iOS.**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/udayatom](https://linktr.ee/udayatom){:target="_blank"}
+<!-- - 👨‍💻 All of my projects are available at <a href="udayatom.github.io" target="_blank">Uday's Universe</a>
 
-- 📝 My Portfolio [https://udayatom.github.io](https://udayatom.github.io){:target="_blank"}
+- 📝 My Portfolio [https://udayatom.github.io](https://udayatom.github.io){:target="_blank"}-->
 
 - 💬 Ask me about **AI, Chatbot, Automation, Data Science, Android Dev, iOS Dev, Java, Kotlin, Swift, Web Dev.**
 
 - 📫 How to reach me **udayatom@gmail.com**
 
-- 📄 Know about my experiences [https://udayatom.github.io](https://udayatom.github.io){:target="_blank"}
+- 📄 <a href="https://udayatom.github.io" target="_blank">Know about my experiences</a> 
 
-- ⚡ Fun fact **I love capturing memories 📷.**
+- ⚡ Fun fact **I likes time machines fictions, Not beleives in past timings travel. By the automation I can save the time in future⏰🚀.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
