@@ -20,28 +20,28 @@ Here are some ideas to get you started:
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30">, I'm Udayakumar</h1>
 <h3 align="center">I am human who love technology ,Progamming👨🏻‍💻 & Automation 💻⚙️.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=venkateeshh&label=Profile%20views&color=0e75b6&style=flat" alt="venkateeshh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=udayatom&label=Profile%20views&color=0e75b6&style=flat" alt="udayatom" /> </p>
 <img align="right" alt="Coding" width="400" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif">
 
 - 🌱 I’m currently making trending in  **AI, GenAI, Data science projects, Python & Mobile App Dev in Android & iOS.**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/udayatom](https://linktr.ee/udayatom)
+- 👨‍💻 All of my projects are available at [https://linktr.ee/udayatom](https://linktr.ee/udayatom){:target="_blank"}
 
-- 📝 My Portfolio [https://udayatom.github.io](https://udayatom.github.io)
+- 📝 My Portfolio [https://udayatom.github.io](https://udayatom.github.io){:target="_blank"}
 
 - 💬 Ask me about **AI, Chatbot, Automation, Data Science, Android Dev, iOS Dev, Java, Kotlin, Swift, Web Dev.**
 
 - 📫 How to reach me **udayatom@gmail.com**
 
-- 📄 Know about my experiences [https://udayatom.github.io](https://udayatom.github.io)
+- 📄 Know about my experiences [https://udayatom.github.io](https://udayatom.github.io){:target="_blank"}
 
 - ⚡ Fun fact **I love capturing memories 📷.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/udayatom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="udayatom" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/udayatom/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="udayatom" height="30" width="40" /></a>
-<a href="https://instagram.com/udayatom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="udayatom" height="30" width="40" /></a>
+<a href="https://twitter.com/udayatom" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="udayatom" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/udayatom/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="udayatom" height="30" width="40" /></a>
+<a href="https://instagram.com/udayatom" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="udayatom" height="30" width="40" /></a>
 <!-- <a href="https://www.codechef.com/users/venkateeshh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="venkateeshh" height="30" width="40" /></a> -->
 </p>
 
